@@ -1,0 +1,8 @@
+name: 'git-check-ignore'
+description: 'Check that gitignore files does not exist in the repository'
+branding:
+  icon: 'file-minus'
+  color: 'red'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
