@@ -1,4 +1,4 @@
-name: 'git-check-ignore'
+name: 'check-git-ignore'
 description: 'Check that gitignore files does not exist in the repository'
 branding:
   icon: 'file-minus'
